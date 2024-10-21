@@ -16,3 +16,5 @@ class lead():
  
   def delete():
     print 'Delete lead.'
+   
+
